@@ -5,4 +5,4 @@ I’m Alex and I’m currently a PhD student in Psychology.
 - 🧑🏻‍💻 R & Python
 - 🔬 Semantic processing & visual perception
 - 🧠 EEG & fMRI data
-- 🏃🏻 Long distance runner
+- 🏃🏻 Distance runner
